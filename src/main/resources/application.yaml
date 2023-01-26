@@ -1,0 +1,8 @@
+server:
+  port: 8081
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/criteriaTest
+    password: 2009129x
+    username: postgres
+    driver-class-name: org.postgresql.Driver
